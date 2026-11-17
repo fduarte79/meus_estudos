@@ -1,6 +1,6 @@
 # Meus estudos
 
-## [Probabilidade](conteudo/probabilidade/probabilidade.md)
+## [Probabilidade](conteudos/probabilidade/probabilidade.md)
 
 
 
