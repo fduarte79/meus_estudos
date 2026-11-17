@@ -1,6 +1,6 @@
 # Probabilidade
 
-Experimento: procedimento que envolve a realização de observações e coleta de dados.
+**Experimento**: procedimento que envolve a realização de observações e coleta de dados.
 
 **Determinístico**: experimento cujo *resultado é previsível e certo* antes mesmo de sua realização. Exemplos: queda de um objeto durante o arremesso de um objeto ou a ebulição da água em 100º C.
 
