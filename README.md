@@ -1,8 +1,6 @@
 # R
 
-
-Viés: 
-variância: 
+## Probabilidade
 
 
 ---
