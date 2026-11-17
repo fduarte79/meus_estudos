@@ -1,6 +1,6 @@
 # R
 
-## Probabilidade
+## [Probabilidade](conteudo/probabilidade/probabilidade.md)
 
 
 
