@@ -30,6 +30,7 @@
 
 ## Livros
 + BRUCE, Peter; BRUCE, Andrew. **Estatística Prática Para Cientistas De Dados.** [S.l.]: Alta Books, 2019.
++ LARSON, Roland Edwin; FARBER, Betsy. Estatística aplicada. 4. ed. São Paulo: Pearson, 2010. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 18 nov. 2026.
 
 ## Repositórios com materiais de estudo
 + [beatrizmilz - materiais_estudo_R](https://github.com/beatrizmilz/materiais_estudo_R?utm_source=chatgpt.com)
