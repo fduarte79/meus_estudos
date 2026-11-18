@@ -1,0 +1,60 @@
+---
+title: "Probabilidade - Conceitos básicos"
+author: "Felipe Duarte"
+date: "2026-11-18"
+output: html_document
+---
+
+
+
+**Experimento** ou **evento**: ação onde obtem-se observações (contagens, medições, respostas).
+
+- **Experimento determinístico**: experimento cujo *resultado é previsível e certo*, antes da sua realização. Exemplos: queda durante o arremesso de um objeto ou a ebulição da água.
+
+- **Experimento aleatório**: experimento cujo *resultado é incerto ou de difícil previsão* ainda que executados nas mesmas condições. Exemplos: adivinhar o número de arremesso de um dado ou adivinhar a face durante o arremesso de uma moeda.
+
+**Resultado**: é a resposta de um experimento.
+   
+**Espaço amostral** ($\Omega$): é o conjunto de todos os resultados possíveis do experimento.
+
+**Evento**: é um subgrupo do espaço amostral.
+
+No lançamento de uma moeda, temos o espaço amostral: $\Omega = \{c,k\}$ onde $c$ = cara e $k$ = coroa ou de um dado $\Omega = \{1, 2, 3, 4, 5, 6\}$
+
+Exemplo 1: obter pelo um menos um número par (2, 4, 6)\
+$\Omega = 6 = \{1, 2, 3, 4, 5, 6\}$\
+$A = \{ 2, 4, 6\}$\
+$P(A) = A/\Omega$
+```{r}
+3/6
+```
+
+Exemplo 2: obter um número menor ou igual a 4.\
+$\Omega = 6 = \{1, 2, 3, 4, 5, 6\}$\
+$A = \{1, 2, 3, 4\}$\
+$P(A) = A/\Omega$
+```{r}
+4/6
+```
+
+Exemplo 3: obter um número maior que 10 (evento impossível).\
+$\Omega = 6 = \{1, 2, 3, 4, 5, 6\}$\
+$A = \{0\}$\
+$P(A) = A/\Omega$
+```{r}
+0/6
+```
+
+Exemplo 4: obter um número $1 <= A <= 6$ (evento certo).
+$\Omega = 6 = \{1, 2, 3, 4, 5, 6\}$\
+$A = \{1, 2, 3, 4, 5, 6\}$\
+$P(A) = A/\Omega$
+```{r}
+6/6
+```
+
+Exemplo 5: lançamento de uma moeda e o dado simultâneamente.\
+Moeda = {$c$ (cara), $k$ = (coroa)}\
+Dado = $\{ 1, 2, 3, 4, 5, 6\}$\
+$\Omega$ = Moeda + Dado = {$c1, c2, c3, c4, c5, c5, c6, k1, k2l k3, k4, k5, k6$}\
+Obter coroa e número impar maior ou  igual a três (k3 e k5).
