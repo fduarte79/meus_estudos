@@ -1,5 +1,0 @@
-# Probabilidade
-
-**Experimento**: procedimento que envolve a realização de observações e coleta de dados.\
-**Determinístico**: experimento cujo *resultado é previsível e certo*, antes da sua realização. Exemplos: queda durante o arremesso de um objeto ou a ebulição da água.\
-**Aleatório**: experimento cujo *resultado é incerto ou de difícil previsão* ainda que executados nas mesmas condições. Exemplos: adivinhar o número de arremesso de um dado ou adivinhar a face durante o arremesso de uma moeda.
